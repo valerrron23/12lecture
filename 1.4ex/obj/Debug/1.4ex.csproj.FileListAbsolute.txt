@@ -1,0 +1,11 @@
+C:\projects\1.4ex\bin\Debug\1.4ex.exe.config
+C:\projects\1.4ex\bin\Debug\1.4ex.exe
+C:\projects\1.4ex\bin\Debug\1.4ex.pdb
+C:\projects\1.4ex\obj\Debug\1.4ex.csproj.AssemblyReference.cache
+C:\projects\1.4ex\obj\Debug\1.4ex.csproj.SuggestedBindingRedirects.cache
+C:\projects\1.4ex\obj\Debug\_1._4ex.Form1.resources
+C:\projects\1.4ex\obj\Debug\_1._4ex.Properties.Resources.resources
+C:\projects\1.4ex\obj\Debug\1.4ex.csproj.GenerateResource.cache
+C:\projects\1.4ex\obj\Debug\1.4ex.csproj.CoreCompileInputs.cache
+C:\projects\1.4ex\obj\Debug\1.4ex.exe
+C:\projects\1.4ex\obj\Debug\1.4ex.pdb
